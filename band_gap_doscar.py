@@ -1,3 +1,4 @@
+
 def get_bandgap(location,tol):
     doscar = open(location)
 #     print(doscar)
